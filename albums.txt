@@ -161,6 +161,7 @@
 * Pere Ubu - The Modern Dance
 * Elvis Costello - This Year's Model
 * electric eels - Agitated/Cyclotron
+* Jandek - Ready for the House
 
 1979:
 * Pere Ubu - Dub Housing
@@ -170,6 +171,7 @@
 * Joy Division - Unknown Pleasures
 * Pop Group - Y
 * Wire - 154
+* This Heat - This Heat
 
 1980:
 * Joy Division - Closer
@@ -336,3 +338,6 @@
 
 2012:
 * Scott Walker - Bish Bosch
+
+2013:
+* Julia Holter - Loud City Song
