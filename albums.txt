@@ -6,6 +6,7 @@
 
 1955:
 * Frank Sinatra - In the Wee Small Hours
+* Stan Getz - West Coast Jazz
 
 1956:
 * Serge Chaloff - Blue Serge
@@ -40,7 +41,6 @@
 * Bob Dylan - The Freewheelin' Bob Dylan
 
 1964:
-* John Coltrane - A Love Supreme
 * Albert Ayler - Spiritual Unity
 * Andrew Hill - Point of Departure
 * Bob Dylan - Another Side of Bob Dylan
@@ -280,6 +280,7 @@
 * Slint - Untitled EP
 * Low - I Could Live in Hope
 * Shellac - At Action Park
+* Bark Psychosis - Hex
 
 1995:
 * Radiohead - The Bends
