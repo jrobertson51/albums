@@ -127,6 +127,7 @@
 * Igor Wakhevitch - Docteur Faust
 * Comus - First Utterance
 * Alcatraz - Vampire State Building
+* Brainticket - Cottonwoodhill
 	
 1972:
 * The Allman Brothers Band - Eat a Peach
@@ -368,11 +369,13 @@
 * Thom Yorke - The Eraser
 * Joanna Newsom - Ys
 * She Wants Revenge - She Wants Revenge
+* Burial - Burial
 
 2007:
 * Radiohead - In Rainbows
 * Arcade Fire - Neon Bible
 * LCD Soundsystem - Sound of Silver
+* Burial - Untrue
 
 2008:
 * Deerhunter - Microcastle
