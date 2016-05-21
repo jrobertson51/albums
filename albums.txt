@@ -6,7 +6,6 @@
 
 1955:
 * Frank Sinatra - In the Wee Small Hours
-* Stan Getz - West Coast Jazz
 
 1956:
 * Serge Chaloff - Blue Serge
@@ -28,7 +27,6 @@
 
 1960:
 * Freddie Hubbard - Open Sesame
-* Joe Meek - I Hear a New World
 * John Coltrane - Giant Steps
 
 1961:
@@ -76,7 +74,6 @@
 * The Doors - The Doors
 * The Doors - Strange Days
 * The Velvet Underground - The Velvet Underground and Nico
-* Tim Buckley - Goodbye and Hello
 
 1968:
 * The Beatles - The Beatles (The White Album)
@@ -126,14 +123,11 @@
 1971:
 * Miles Davis - A Tribute to Jack Johnson
 * Joni Mitchell - Blue
-* The Doors - L.A. Woman
 * Led Zeppelin - IV
 * Leonard Cohen - Songs of Love and Hate
 * Can - Tago Mago
 * The Allman Brothers Band - The Allman Brothers Band at Fillmore East
-* The Mahavishnu Orchestra - The Inner Mounting Flame
 * Sly & the Family Stone - There's a Riot Goin' On
-* Igor Wakhevitch - Docteur Faust
 * Comus - First Utterance
 * Alcatraz - Vampire State Building
 * Brainticket - Cottonwoodhill
@@ -165,7 +159,6 @@
 * Henry Cow - Unrest
 * Robert Wyatt - Rock Bottom
 * Van Morrison - Veedon Fleece
-* Moolah - Woe ye Demons Possessed
 * Miles Davis - Get Up with It
 
 1975:
@@ -180,7 +173,6 @@
 * The Modern Lovers - The Modern Lovers
 * David Bowie - Station to Station
 * Michael Mantler - The Hapless Child and Other Inscrutable Stories
-* Eroc - Zwei
 
 1977:
 * Talking Heads - 77
@@ -189,16 +181,13 @@
 * Wire - Pink Flag
 * Iggy Pop - The Idiot
 * Miles Davis - Dark Magus
-* David Cunningham - Gray Scale
 
 1978:
 * The Residents - Not Available
-* Captain Beefheart and His Magic Band - Shiny Beast (Bat Chain Puller)
 * Pere Ubu - The Modern Dance
 * Pere Ubu - Dub Housing
 * Elvis Costello - This Year's Model
 * electric eels - Agitated/Cyclotron
-* Jandek - Ready for the House
 * Public Image Ltd - Public Image: First Issue
 
 1979:
@@ -239,7 +228,7 @@
 * Minutemen - Double Nickels on the Dime
 * The Replacements - Let it Be
 * The Smiths - The Smiths
-* Husker Du - Zen Arcade
+* Hüsker Dü - Zen Arcade
 * Butthole Surfers - Psychic... Powerless... Another Man's Sac
 
 1985:
@@ -276,8 +265,7 @@
 * Slint - Tweez
 
 1990:
-* Fugazi - Repeater
-* Tom Ze - Brazil Classics, Vol. 4
+* The Breeders - Pod
 
 1991:
 * Sebadoh - III
@@ -328,9 +316,9 @@
 * Radiohead - OK Computer
 * Portishead - Portishead
 * Bob Dylan - Time Out of Mind
-* Charlie Haden and Pat Metheny - Beyond the Missouri Sky
 * The Dismemberment Plan - The Dismemberment Plan Is Terrified
 * Built to Spill - Perfect from Now On
+* Sleater-Kinney - Dig Me Out
 
 1998:
 * Sonic Youth - A Thousand Leaves
@@ -341,7 +329,6 @@
 * Dirty Three - Ocean Songs
 * Boards of Canada - Music Has the Right to Children
 * BFY - Industrial Dub Mentality
-* Greg Osby - Banned in New York
 
 1999:
 * The Olivia Tremor Control - Black Foliage: Animation Music
@@ -370,7 +357,6 @@
 * Sonic Youth - Murray Street
 * The Streets - Original Pirate Material
 * Beth Gibbons - Out of Season
-* Interpol - Turn on the Bright Lights
 * Wilco - Yankee Hotel Foxtrot
 * Sleater-Kinney - One Beat
 
@@ -403,7 +389,7 @@
 * Burial - Burial
 * My Disco - Cancer
 * Kode9 & The Spaceape - Memories of the Future
-* Matthew Herbert - Scale
+* Herbert - Scale
 
 2007:
 * Radiohead - In Rainbows
@@ -412,7 +398,6 @@
 * Burial - Untrue
 
 2008:
-* Deerhunter - Microcastle
 * Jonny Greenwood - There Will be Blood
 * Portishead - Third
 * Titus Andronicus - The Airing of Grievances
@@ -450,7 +435,6 @@
 * Scott Walker and Sunn O))) - Soused
 * St. Vincent - St. Vincent
 * Run The Jewels - Run the Jewels 2
-* Shellac - Dude Incredible
 * Sleep Maps - We Die for Truth
 * Flying Lotus - You're Dead!
 
