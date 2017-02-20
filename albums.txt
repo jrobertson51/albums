@@ -279,9 +279,6 @@
 * The Stone Roses - The Stone Roses
 * Slint - Tweez
 
-1990:
-* The Breeders - Pod
-
 1991:
 * Sebadoh - III
 * My Bloody Valentine - Loveless
@@ -331,8 +328,6 @@
 * Modest Mouse - Lonesome Crowded West
 * Radiohead - OK Computer
 * Portishead - Portishead
-* Bob Dylan - Time Out of Mind
-* The Dismemberment Plan - The Dismemberment Plan Is Terrified
 * Built to Spill - Perfect from Now On
 * Sleater-Kinney - Dig Me Out
 * Robert Wyatt - Shleep
@@ -381,6 +376,7 @@
 * Beth Gibbons - Out of Season
 * Wilco - Yankee Hotel Foxtrot
 * Sleater-Kinney - One Beat
+* William Basinski - The Disintegration Loops
 
 2003:
 * Radiohead - Hail to the Thief
@@ -406,7 +402,6 @@
 
 2006:
 * Placebo - Meds
-* Bob Dylan - Modern Times
 * Scott Walker - The Drift
 * Joanna Newsom - Ys
 * She Wants Revenge - She Wants Revenge
@@ -480,9 +475,7 @@
 2016:
 * David Bowie - Blackstar
 * Autolux - Pussy's Dead
-* Mitski - Puberty 2
 * Angel Olsen - My Woman
-* Car Seat Headrest - Teens of Denial
 * Chance the Rapper - Coloring Book
 * Nick Cave and The Bad Seeds - Skeleton Tree	
 * Jenny Hval - Blood Bitch
