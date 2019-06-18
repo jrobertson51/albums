@@ -1,4 +1,4 @@
-1951:
+ 951:
 * Stan Kenton - City of Glass
 
 1953:
@@ -196,6 +196,7 @@
 * electric eels - Agitated/Cyclotron
 * Public Image Ltd - Public Image: First Issue
 * Steve Reich - Music for 18 Musicians
+* Blondie - Parallel Lines
 
 1979:
 * Gang of Four - Entertainment!
@@ -209,6 +210,7 @@
 * Nurse with Wound - Chance Meeting on a Dissecting Table of a Sewing Machine and an Umbrella
 * Igor Wakhevitch - Let's Start
 * Philippe Besombes - Cesi Est Cela
+* The Raincoats - The Raincoats
 
 1980:
 * Joy Division - Closer
@@ -338,6 +340,7 @@
 * Robert Wyatt - Shleep
 * Labradford - Mi media naranja
 * Nick Cave and The Bad Seeds - The Boatman's Call
+* Mogwai - Young Team
 
 1998:
 * Sonic Youth - A Thousand Leaves
@@ -357,6 +360,7 @@
 * The Dismemberment Plan - Emergency & I
 * Built to Spill - Keep It Like a Secret
 * Sleater-Kinney - The Hot Rock
+* The Magnetic Fields - 69 Love Songs
 
 2000:
 * Yo La Tengo - And Then Nothing Turned Itself Inside-Out
@@ -388,6 +392,7 @@
 * Sleater-Kinney - One Beat
 * William Basinski - The Disintegration Loops
 * Isis - Oceanic
+* The Mountain Goats - Tallahassee
 
 2003:
 * Radiohead - Hail to the Thief
@@ -534,3 +539,9 @@
 * Mitski - Be the Cowboy
 * Earl Sweatshirt - Some Rap Songs
 * Robyn - Honey
+* Let's Eat Grandma - I'm All Ears
+* Yves Tumor - Safe in the Hands of Love
+
+2019:
+* Jenny Lewis - On the Line
+* Big Thief - U.F.O.F.
