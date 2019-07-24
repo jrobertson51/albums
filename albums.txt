@@ -1,4 +1,4 @@
- 951:
+1951:
 * Stan Kenton - City of Glass
 
 1953:
@@ -470,6 +470,7 @@
 * Voices from the Lake - Voices from the Lake
 * Linea Aspera - Linea Aspera
 * Lana Del Rey - Born To Die
+* Laurel Halo - Quarantine
 
 2013:
 * Julia Holter - Loud City Song
